@@ -1,0 +1,401 @@
+donor_name,date,amount,campaign,payment_method
+Brian Anderson,2025-01-06,100,Annual Gala,Check
+Peter Johnson,2025-01-09,50,Youth Programs,Credit Card
+Kevin Kim,2025-01-10,1000,Annual Gala,Check
+Grace Smith,2025-01-10,50,Monthly Giving,Check
+Michelle Smith,2025-01-12,500,Annual Gala,PayPal
+Linda Martinez,2025-01-16,25,Spring Food Drive,Cash
+Alex Park,2025-01-16,100,Spring Food Drive,Check
+Michelle Brown,2025-01-17,10,Giving Tuesday,Check
+Maria Chen,2025-01-22,50,Giving Tuesday,Check
+Michelle Brown,2025-01-26,100,Giving Tuesday,Check
+Angela Wilson,2025-01-27,500,Youth Programs,Cash
+David Park,2025-01-28,100,Annual Gala,PayPal
+Kevin Kim,2025-01-29,25,Giving Tuesday,PayPal
+Alex Nguyen,2025-01-29,1000,Annual Gala,PayPal
+Michelle Park,2025-01-30,500,Giving Tuesday,Cash
+David Lopez,2025-02-01,10,Spring Food Drive,Check
+Daniel Davis,2025-02-01,50,Youth Programs,PayPal
+Brian Garcia,2025-02-03,1000,Giving Tuesday,PayPal
+Daniel Garcia,2025-02-06,250,Giving Tuesday,Check
+Karen Kim,2025-02-07,10,Spring Food Drive,Check
+Brian Chen,2025-02-09,100,Youth Programs,PayPal
+Brian Wilson,2025-02-10,100,Annual Gala,PayPal
+Nancy Martinez,2025-02-10,500,Spring Food Drive,Check
+Nancy Martinez,2025-02-12,100,Youth Programs,PayPal
+Alex Nguyen,2025-02-12,150,Giving Tuesday,Cash
+Grace Martinez,2025-02-12,25,Annual Gala,Credit Card
+Angela Park,2025-02-13,100,Annual Gala,Credit Card
+Alex Park,2025-02-13,250,Giving Tuesday,Cash
+Michelle Wilson,2025-02-16,100,Giving Tuesday,Credit Card
+Karen Martinez,2025-02-20,50,Monthly Giving,Check
+Karen Kim,2025-02-22,50,Youth Programs,PayPal
+Grace Johnson,2025-02-23,250,Spring Food Drive,Credit Card
+David Martinez,2025-03-04,25,Giving Tuesday,Check
+James Wilson,2025-03-04,10,Giving Tuesday,Credit Card
+Angela Lopez,2025-03-04,100,Monthly Giving,Credit Card
+Karen Garcia,2025-03-05,50,Annual Gala,Credit Card
+David Martinez,2025-03-08,25,Monthly Giving,Credit Card
+Peter Martinez,2025-03-09,150,Annual Gala,Cash
+Angela Wilson,2025-03-09,1000,Monthly Giving,Cash
+Angela Lopez,2025-03-11,500,Monthly Giving,PayPal
+James Nguyen,2025-03-12,10,Giving Tuesday,Cash
+David Lopez,2025-03-12,50,Giving Tuesday,Credit Card
+Linda Davis,2025-03-16,250,Monthly Giving,Credit Card
+Brian Brown,2025-03-16,500,Monthly Giving,Check
+David Nguyen,2025-03-16,25,Annual Gala,Cash
+Brian Kim,2025-03-17,150,Spring Food Drive,PayPal
+Karen Garcia,2025-03-17,250,Giving Tuesday,PayPal
+Angela Lopez,2025-03-18,50,Giving Tuesday,Cash
+Karen Garcia,2025-03-19,25,Youth Programs,Credit Card
+Grace Johnson,2025-03-19,500,Spring Food Drive,Cash
+Michelle Brown,2025-03-19,100,Monthly Giving,Cash
+Michelle Johnson,2025-03-22,500,Spring Food Drive,PayPal
+Grace Anderson,2025-03-23,50,Giving Tuesday,Check
+Tom Smith,2025-03-24,500,Giving Tuesday,Cash
+James Chen,2025-03-25,500,Monthly Giving,Cash
+Jason Lee,2025-03-25,50,Spring Food Drive,PayPal
+Emily Smith,2025-03-27,25,Monthly Giving,Cash
+Alex Park,2025-03-29,25,Monthly Giving,Check
+Linda Martinez,2025-03-29,25,Monthly Giving,PayPal
+Angela Park,2025-04-01,50,Annual Gala,Cash
+Brian Anderson,2025-04-04,25,Annual Gala,Check
+James Wilson,2025-04-04,50,Youth Programs,Cash
+Brian Garcia,2025-04-06,100,Annual Gala,Credit Card
+Brian Chen,2025-04-07,50,Monthly Giving,Cash
+Alex Nguyen,2025-04-08,50,Monthly Giving,PayPal
+David Lopez,2025-04-10,25,Youth Programs,Cash
+Brian Anderson,2025-04-12,500,Spring Food Drive,Check
+Daniel Garcia,2025-04-13,50,Spring Food Drive,Check
+Kevin Wilson,2025-04-13,25,Monthly Giving,Cash
+James Nguyen,2025-04-14,1000,Youth Programs,Credit Card
+David Nguyen,2025-04-15,500,Giving Tuesday,Credit Card
+Nancy Martinez,2025-04-16,100,Youth Programs,Check
+Luis Martinez,2025-04-17,50,Youth Programs,Check
+David Lee,2025-04-28,50,Spring Food Drive,Credit Card
+Brian Anderson,2025-04-28,250,Giving Tuesday,Check
+David Lee,2025-04-29,150,Monthly Giving,Credit Card
+Tom Smith,2025-05-06,25,Monthly Giving,Check
+David Park,2025-05-06,500,Giving Tuesday,Cash
+Brian Brown,2025-05-07,500,Giving Tuesday,PayPal
+Alex Nguyen,2025-05-09,100,Annual Gala,Cash
+Michelle Garcia,2025-05-09,250,Giving Tuesday,Credit Card
+Michelle Garcia,2025-05-10,25,Monthly Giving,Credit Card
+Peter Johnson,2025-05-11,25,Youth Programs,Cash
+Peter Johnson,2025-05-12,150,Monthly Giving,Check
+Angela Park,2025-05-13,10,Youth Programs,Credit Card
+Nancy Park,2025-05-14,250,Annual Gala,PayPal
+Linda Martinez,2025-05-15,50,Giving Tuesday,Cash
+Nancy Martinez,2025-05-16,50,Annual Gala,PayPal
+Michelle Wilson,2025-05-17,150,Giving Tuesday,PayPal
+Michelle Johnson,2025-05-18,25,Annual Gala,Check
+Michelle Garcia,2025-05-21,500,Annual Gala,Credit Card
+Grace Johnson,2025-05-22,100,Spring Food Drive,Check
+Brian Anderson,2025-05-23,100,Monthly Giving,Credit Card
+David Lopez,2025-05-23,10,Monthly Giving,PayPal
+Alex Nguyen,2025-05-28,1000,Giving Tuesday,PayPal
+Michelle Johnson,2025-05-30,25,Spring Food Drive,Check
+Peter Tran,2025-05-30,50,Annual Gala,Cash
+Grace Anderson,2025-05-31,50,Annual Gala,Cash
+Karen Garcia,2025-06-02,100,Youth Programs,PayPal
+Grace Johnson,2025-06-05,50,Youth Programs,Credit Card
+Linda Nguyen,2025-06-06,150,Spring Food Drive,Credit Card
+Angela Park,2025-06-06,1000,Spring Food Drive,PayPal
+Daniel Davis,2025-06-07,150,Giving Tuesday,PayPal
+Peter Smith,2025-06-07,1000,Spring Food Drive,Check
+Michelle Smith,2025-06-07,50,Monthly Giving,PayPal
+Daniel Lee,2025-06-08,50,Giving Tuesday,Credit Card
+James Wilson,2025-06-12,100,Monthly Giving,PayPal
+Angela Wilson,2025-06-12,10,Youth Programs,Cash
+Michelle Chen,2025-06-13,250,Monthly Giving,Credit Card
+Grace Martinez,2025-06-13,250,Giving Tuesday,PayPal
+Peter Martinez,2025-06-14,1000,Monthly Giving,Cash
+James Chen,2025-06-14,150,Monthly Giving,Check
+Grace Martinez,2025-06-15,250,Spring Food Drive,Check
+Michelle Park,2025-06-18,100,Annual Gala,PayPal
+Daniel Garcia,2025-06-19,25,Monthly Giving,Credit Card
+Michelle Chen,2025-06-19,250,Giving Tuesday,PayPal
+David Nguyen,2025-06-20,50,Monthly Giving,Cash
+Michelle Brown,2025-06-24,250,Annual Gala,Cash
+Peter Johnson,2025-06-25,1000,Youth Programs,PayPal
+Angela Chen,2025-06-26,25,Monthly Giving,PayPal
+Nancy Park,2025-06-27,25,Annual Gala,Credit Card
+Kevin Kim,2025-06-28,25,Annual Gala,Credit Card
+Daniel Lee,2025-06-29,150,Spring Food Drive,PayPal
+Peter Tran,2025-06-29,150,Monthly Giving,Check
+Daniel Garcia,2025-06-29,1000,Monthly Giving,Cash
+Grace Smith,2025-06-30,100,Youth Programs,Credit Card
+James Johnson,2025-07-04,100,Giving Tuesday,Check
+Maria Chen,2025-07-06,100,Giving Tuesday,PayPal
+Grace Smith,2025-07-06,25,Spring Food Drive,Cash
+Maria Chen,2025-07-08,100,Giving Tuesday,Credit Card
+Brian Anderson,2025-07-14,100,Spring Food Drive,Cash
+Daniel Lee,2025-07-16,100,Youth Programs,Check
+James Johnson,2025-07-16,50,Monthly Giving,PayPal
+David Martinez,2025-07-17,50,Giving Tuesday,Credit Card
+Linda Nguyen,2025-07-18,100,Youth Programs,Cash
+Linda Nguyen,2025-07-19,50,Youth Programs,Credit Card
+Michelle Park,2025-07-23,25,Monthly Giving,Check
+Kevin Kim,2025-07-24,25,Spring Food Drive,Cash
+Angela Chen,2025-07-25,100,Giving Tuesday,PayPal
+Michelle Smith,2025-07-28,150,Giving Tuesday,Cash
+Linda Johnson,2025-07-30,50,Youth Programs,Check
+Angela Park,2025-08-04,250,Youth Programs,PayPal
+Brian Brown,2025-08-05,50,Giving Tuesday,Cash
+Brian Kim,2025-08-08,1000,Spring Food Drive,Cash
+Linda Johnson,2025-08-08,100,Monthly Giving,PayPal
+Brian Wilson,2025-08-08,1000,Giving Tuesday,Cash
+Angela Park,2025-08-09,50,Monthly Giving,Cash
+Brian Anderson,2025-08-09,25,Youth Programs,PayPal
+Brian Brown,2025-08-12,50,Giving Tuesday,Check
+Linda Davis,2025-08-14,1000,Annual Gala,Credit Card
+David Martinez,2025-08-15,50,Spring Food Drive,PayPal
+Emily Smith,2025-08-15,500,Annual Gala,Cash
+Emily Smith,2025-08-18,500,Annual Gala,Credit Card
+Linda Johnson,2025-08-19,10,Giving Tuesday,Check
+Peter Tran,2025-08-20,25,Spring Food Drive,PayPal
+Linda Johnson,2025-08-23,50,Annual Gala,Credit Card
+Michelle Smith,2025-08-23,250,Youth Programs,Credit Card
+Peter Martinez,2025-08-27,250,Spring Food Drive,Credit Card
+Brian Kim,2025-08-28,50,Spring Food Drive,Cash
+David Martinez,2025-08-29,250,Annual Gala,Check
+Michelle Smith,2025-08-29,50,Giving Tuesday,Check
+James Chen,2025-08-29,50,Giving Tuesday,Credit Card
+Michelle Park,2025-08-30,50,Annual Gala,Check
+Kevin Wilson,2025-08-31,25,Spring Food Drive,Cash
+James Chen,2025-09-02,25,Monthly Giving,PayPal
+Peter Tran,2025-09-02,500,Monthly Giving,Credit Card
+Daniel Davis,2025-09-04,25,Youth Programs,Check
+Luis Martinez,2025-09-04,25,Monthly Giving,Credit Card
+Michelle Chen,2025-09-06,100,Monthly Giving,Check
+Nancy Tran,2025-09-08,250,Monthly Giving,Check
+Daniel Garcia,2025-09-11,150,Giving Tuesday,Cash
+Kevin Kim,2025-09-12,100,Youth Programs,Check
+Tom Smith,2025-09-13,100,Annual Gala,Check
+Kevin Kim,2025-09-13,1000,Annual Gala,Check
+Maria Chen,2025-09-14,50,Monthly Giving,Credit Card
+Tom Smith,2025-09-15,25,Annual Gala,Cash
+Brian Garcia,2025-09-15,1000,Annual Gala,Check
+James Johnson,2025-09-25,50,Giving Tuesday,PayPal
+Peter Smith,2025-09-26,150,Monthly Giving,Cash
+David Lee,2025-09-26,1000,Giving Tuesday,Cash
+James Wilson,2025-09-27,100,Youth Programs,Cash
+Peter Johnson,2025-09-28,25,Annual Gala,Check
+Nancy Tran,2025-09-29,100,Youth Programs,Check
+Emily Smith,2025-09-29,250,Spring Food Drive,Cash
+Grace Martinez,2025-09-30,25,Spring Food Drive,Credit Card
+Peter Smith,2025-10-01,100,Annual Gala,Credit Card
+Nancy Park,2025-10-01,50,Spring Food Drive,Cash
+Grace Anderson,2025-10-01,50,Spring Food Drive,PayPal
+Luis Martinez,2025-10-03,25,Annual Gala,Cash
+Karen Kim,2025-10-06,50,Youth Programs,PayPal
+Kevin Kim,2025-10-07,100,Giving Tuesday,Cash
+Michelle Wilson,2025-10-08,150,Annual Gala,PayPal
+Brian Wilson,2025-10-09,150,Youth Programs,PayPal
+Jason Lee,2025-10-09,50,Annual Gala,Credit Card
+Michelle Garcia,2025-10-09,25,Annual Gala,Cash
+Michelle Wilson,2025-10-11,50,Annual Gala,Check
+Tom Smith,2025-10-11,25,Spring Food Drive,PayPal
+Brian Anderson,2025-10-12,50,Monthly Giving,Credit Card
+Nancy Martinez,2025-10-13,100,Youth Programs,PayPal
+Karen Martinez,2025-10-14,150,Giving Tuesday,Credit Card
+Michelle Wilson,2025-10-14,50,Giving Tuesday,Cash
+David Lee,2025-10-16,150,Monthly Giving,Cash
+Alex Park,2025-10-17,250,Giving Tuesday,Cash
+James Nguyen,2025-10-18,50,Youth Programs,Credit Card
+Michelle Johnson,2025-10-18,25,Youth Programs,PayPal
+Peter Smith,2025-10-19,150,Monthly Giving,PayPal
+Angela Lopez,2025-10-19,100,Monthly Giving,PayPal
+Nancy Martinez,2025-10-20,500,Annual Gala,PayPal
+Peter Johnson,2025-10-23,150,Monthly Giving,Credit Card
+Michelle Park,2025-10-25,100,Youth Programs,Check
+Angela Park,2025-10-26,250,Annual Gala,PayPal
+Nancy Martinez,2025-10-28,100,Giving Tuesday,Check
+Alex Nguyen,2025-10-28,25,Annual Gala,PayPal
+Nancy Park,2025-10-30,50,Spring Food Drive,Cash
+Grace Anderson,2025-10-30,50,Monthly Giving,Credit Card
+James Wilson,2025-10-30,25,Giving Tuesday,Cash
+Angela Wilson,2025-10-30,250,Monthly Giving,Cash
+Grace Anderson,2025-11-03,50,Annual Gala,Credit Card
+Tom Smith,2025-11-04,1000,Spring Food Drive,Check
+James Johnson,2025-11-05,50,Spring Food Drive,PayPal
+Kevin Kim,2025-11-05,50,Annual Gala,Cash
+Emily Smith,2025-11-06,25,Monthly Giving,Check
+Grace Martinez,2025-11-09,50,Spring Food Drive,Credit Card
+David Lopez,2025-11-11,50,Annual Gala,Credit Card
+Michelle Chen,2025-11-13,10,Monthly Giving,PayPal
+Brian Brown,2025-11-14,10,Monthly Giving,Credit Card
+Nancy Park,2025-11-14,500,Monthly Giving,PayPal
+Alex Park,2025-11-16,250,Giving Tuesday,Credit Card
+Luis Martinez,2025-11-17,250,Monthly Giving,Cash
+Angela Park,2025-11-18,150,Youth Programs,Credit Card
+Peter Johnson,2025-11-18,1000,Annual Gala,PayPal
+Kevin Kim,2025-11-20,1000,Youth Programs,Check
+Michelle Garcia,2025-11-21,150,Monthly Giving,Credit Card
+David Lopez,2025-11-23,25,Monthly Giving,PayPal
+Kevin Wilson,2025-11-26,1000,Spring Food Drive,Check
+Karen Martinez,2025-11-26,25,Spring Food Drive,Check
+Karen Martinez,2025-11-26,150,Monthly Giving,Check
+Tom Smith,2025-11-27,25,Spring Food Drive,PayPal
+Karen Martinez,2025-11-27,10,Giving Tuesday,Credit Card
+Kevin Wilson,2025-11-27,25,Giving Tuesday,Cash
+Angela Chen,2025-11-27,50,Spring Food Drive,PayPal
+Daniel Davis,2025-11-28,25,Annual Gala,PayPal
+Peter Smith,2025-11-29,100,Youth Programs,PayPal
+Kevin Kim,2025-12-02,100,Annual Gala,Cash
+Nancy Martinez,2025-12-05,50,Monthly Giving,PayPal
+Nancy Park,2025-12-07,100,Youth Programs,Cash
+Grace Anderson,2025-12-11,50,Monthly Giving,Check
+David Lee,2025-12-11,25,Youth Programs,Cash
+Michelle Smith,2025-12-13,10,Youth Programs,PayPal
+Grace Martinez,2025-12-14,100,Monthly Giving,Cash
+Nancy Martinez,2025-12-14,25,Annual Gala,Check
+Brian Garcia,2025-12-14,25,Giving Tuesday,Credit Card
+Kevin Kim,2025-12-15,100,Giving Tuesday,Check
+David Lopez,2025-12-20,250,Annual Gala,PayPal
+Angela Chen,2025-12-22,150,Annual Gala,PayPal
+David Park,2025-12-23,50,Giving Tuesday,Credit Card
+Nancy Martinez,2025-12-24,50,Spring Food Drive,Credit Card
+Brian Garcia,2025-12-27,250,Spring Food Drive,PayPal
+Maria Chen,2025-12-28,50,Annual Gala,Cash
+Michelle Chen,2026-01-02,250,Spring Food Drive,PayPal
+Maria Chen,2026-01-03,50,Monthly Giving,Check
+Michelle Brown,2026-01-05,10,Giving Tuesday,Check
+Brian Garcia,2026-01-06,150,Spring Food Drive,Cash
+James Nguyen,2026-01-06,25,Spring Food Drive,Check
+Angela Park,2026-01-08,500,Annual Gala,PayPal
+Linda Nguyen,2026-01-08,100,Giving Tuesday,Cash
+James Nguyen,2026-01-08,10,Spring Food Drive,Check
+Linda Martinez,2026-01-10,10,Monthly Giving,PayPal
+Linda Nguyen,2026-01-11,250,Monthly Giving,Credit Card
+David Martinez,2026-01-11,500,Giving Tuesday,PayPal
+Daniel Garcia,2026-01-13,25,Giving Tuesday,Credit Card
+Brian Brown,2026-01-13,25,Youth Programs,Credit Card
+Michelle Johnson,2026-01-18,50,Annual Gala,Credit Card
+Grace Johnson,2026-01-19,25,Monthly Giving,Credit Card
+Michelle Smith,2026-01-24,250,Spring Food Drive,PayPal
+Angela Lopez,2026-01-25,50,Annual Gala,PayPal
+Luis Martinez,2026-01-26,250,Giving Tuesday,PayPal
+Grace Martinez,2026-01-26,25,Giving Tuesday,Check
+Karen Martinez,2026-01-26,50,Youth Programs,Cash
+Brian Garcia,2026-01-28,10,Monthly Giving,PayPal
+Daniel Davis,2026-01-29,50,Monthly Giving,Check
+Michelle Park,2026-01-30,100,Youth Programs,PayPal
+Luis Martinez,2026-01-30,50,Spring Food Drive,Credit Card
+James Nguyen,2026-01-31,150,Monthly Giving,PayPal
+David Lee,2026-02-03,1000,Youth Programs,Credit Card
+Tom Smith,2026-02-04,150,Monthly Giving,Check
+Kevin Wilson,2026-02-04,10,Monthly Giving,Cash
+Peter Tran,2026-02-06,1000,Youth Programs,Credit Card
+James Nguyen,2026-02-07,50,Monthly Giving,Check
+Jason Lee,2026-02-08,500,Youth Programs,Credit Card
+Karen Martinez,2026-02-09,10,Annual Gala,Check
+Peter Tran,2026-02-10,100,Giving Tuesday,PayPal
+Angela Chen,2026-02-11,25,Spring Food Drive,Check
+Peter Tran,2026-02-13,150,Giving Tuesday,Credit Card
+Linda Johnson,2026-02-15,1000,Spring Food Drive,Credit Card
+Nancy Tran,2026-02-15,100,Annual Gala,PayPal
+James Chen,2026-02-17,150,Youth Programs,Cash
+Linda Nguyen,2026-02-17,100,Annual Gala,Credit Card
+Nancy Park,2026-02-20,50,Annual Gala,PayPal
+Karen Garcia,2026-02-23,100,Youth Programs,PayPal
+Brian Brown,2026-02-25,500,Annual Gala,Credit Card
+Peter Martinez,2026-03-01,50,Youth Programs,Credit Card
+Emily Smith,2026-03-01,100,Annual Gala,Cash
+Daniel Garcia,2026-03-02,100,Monthly Giving,Check
+Angela Lopez,2026-03-02,50,Monthly Giving,PayPal
+Karen Kim,2026-03-04,100,Annual Gala,Credit Card
+Brian Brown,2026-03-06,25,Giving Tuesday,PayPal
+Nancy Tran,2026-03-08,1000,Annual Gala,Credit Card
+Michelle Brown,2026-03-09,100,Giving Tuesday,Check
+David Nguyen,2026-03-11,100,Giving Tuesday,PayPal
+Linda Martinez,2026-03-11,250,Monthly Giving,Check
+Kevin Kim,2026-03-12,50,Youth Programs,Check
+Angela Wilson,2026-03-16,250,Youth Programs,Credit Card
+Tom Smith,2026-03-16,250,Youth Programs,Credit Card
+Peter Tran,2026-03-17,50,Annual Gala,PayPal
+Kevin Kim,2026-03-17,500,Giving Tuesday,Cash
+Peter Tran,2026-03-18,1000,Giving Tuesday,PayPal
+Brian Chen,2026-03-21,100,Annual Gala,Check
+Linda Davis,2026-03-23,150,Youth Programs,Check
+Michelle Garcia,2026-03-23,25,Monthly Giving,Cash
+Linda Martinez,2026-03-24,100,Spring Food Drive,PayPal
+Nancy Tran,2026-03-25,25,Monthly Giving,Check
+Linda Martinez,2026-03-25,10,Youth Programs,Cash
+Karen Garcia,2026-03-25,150,Youth Programs,Check
+Michelle Wilson,2026-03-25,50,Monthly Giving,Check
+Michelle Wilson,2026-03-25,25,Spring Food Drive,Check
+Kevin Kim,2026-03-26,1000,Monthly Giving,PayPal
+Michelle Park,2026-03-27,25,Giving Tuesday,Cash
+Brian Wilson,2026-03-30,100,Youth Programs,Cash
+Brian Wilson,2026-03-31,1000,Giving Tuesday,Cash
+Brian Anderson,2026-03-31,250,Annual Gala,Check
+David Lopez,2026-04-01,25,Giving Tuesday,PayPal
+Grace Smith,2026-04-06,500,Youth Programs,Check
+David Lopez,2026-04-06,25,Spring Food Drive,Credit Card
+David Lopez,2026-04-07,250,Monthly Giving,Cash
+James Nguyen,2026-04-08,250,Spring Food Drive,Credit Card
+Linda Davis,2026-04-10,150,Giving Tuesday,Check
+Linda Johnson,2026-04-10,50,Spring Food Drive,Check
+Linda Nguyen,2026-04-10,100,Youth Programs,Check
+Karen Kim,2026-04-11,1000,Monthly Giving,Cash
+Linda Martinez,2026-04-11,50,Giving Tuesday,PayPal
+Nancy Park,2026-04-13,100,Spring Food Drive,Check
+Linda Johnson,2026-04-14,100,Annual Gala,Credit Card
+Michelle Garcia,2026-04-18,100,Giving Tuesday,PayPal
+David Park,2026-04-19,50,Annual Gala,PayPal
+Peter Johnson,2026-04-21,150,Youth Programs,PayPal
+Karen Garcia,2026-04-22,500,Monthly Giving,Check
+David Park,2026-04-23,50,Annual Gala,Cash
+Brian Garcia,2026-04-27,100,Spring Food Drive,PayPal
+Grace Anderson,2026-04-27,10,Youth Programs,PayPal
+Karen Kim,2026-04-27,10,Youth Programs,Credit Card
+Grace Anderson,2026-04-28,150,Youth Programs,PayPal
+Nancy Park,2026-04-30,50,Youth Programs,Cash
+Angela Chen,2026-04-30,100,Monthly Giving,Check
+Michelle Johnson,2026-04-30,500,Annual Gala,Check
+Karen Garcia,2026-05-03,150,Giving Tuesday,Credit Card
+James Nguyen,2026-05-04,25,Youth Programs,Credit Card
+Brian Garcia,2026-05-09,50,Annual Gala,PayPal
+David Lopez,2026-05-10,50,Monthly Giving,Cash
+Brian Brown,2026-05-11,1000,Monthly Giving,PayPal
+Kevin Kim,2026-05-12,500,Annual Gala,Check
+Angela Lopez,2026-05-13,100,Spring Food Drive,Credit Card
+Karen Martinez,2026-05-13,100,Monthly Giving,PayPal
+Brian Garcia,2026-05-15,100,Giving Tuesday,Cash
+James Johnson,2026-05-15,50,Giving Tuesday,PayPal
+Nancy Park,2026-05-16,1000,Spring Food Drive,Cash
+Brian Chen,2026-05-17,50,Monthly Giving,Cash
+Karen Garcia,2026-05-18,25,Annual Gala,PayPal
+Angela Chen,2026-05-18,25,Monthly Giving,Credit Card
+Michelle Wilson,2026-05-23,150,Spring Food Drive,PayPal
+Linda Nguyen,2026-05-25,50,Youth Programs,Credit Card
+Michelle Garcia,2026-05-26,10,Monthly Giving,Check
+Angela Wilson,2026-05-26,10,Monthly Giving,Credit Card
+Nancy Tran,2026-05-27,150,Monthly Giving,Credit Card
+Nancy Park,2026-05-28,25,Giving Tuesday,Cash
+James Chen,2026-05-29,50,Spring Food Drive,Cash
+Emily Smith,2026-05-30,250,Spring Food Drive,Check
+Emily Smith,2026-06-01,10,Spring Food Drive,Check
+Karen Martinez,2026-06-02,25,Monthly Giving,Credit Card
+Brian Chen,2026-06-04,500,Giving Tuesday,Check
+Angela Wilson,2026-06-04,50,Monthly Giving,Cash
+Michelle Park,2026-06-04,250,Monthly Giving,Credit Card
+Linda Martinez,2026-06-05,25,Spring Food Drive,Credit Card
+James Wilson,2026-06-05,25,Spring Food Drive,PayPal
+Linda Nguyen,2026-06-05,50,Annual Gala,PayPal
+Michelle Garcia,2026-06-07,150,Annual Gala,Check
+Angela Lopez,2026-06-08,500,Spring Food Drive,Credit Card
+David Lopez,2026-06-11,500,Giving Tuesday,Cash
+Luis Martinez,2026-06-12,1000,Spring Food Drive,Check
+Tom Smith,2026-06-13,50,Annual Gala,Credit Card
+Daniel Lee,2026-06-14,50,Annual Gala,Cash
+Nancy Martinez,2026-06-14,150,Spring Food Drive,Check
+Grace Johnson,2026-06-15,25,Giving Tuesday,Check
+Emily Smith,2026-06-16,50,Monthly Giving,Check
+Angela Wilson,2026-06-18,500,Monthly Giving,Credit Card
+Michelle Park,2026-06-20,100,Monthly Giving,PayPal
+Linda Nguyen,2026-06-21,150,Annual Gala,Credit Card
+David Park,2026-06-23,250,Monthly Giving,Credit Card
+Peter Johnson,2026-06-24,10,Giving Tuesday,Check
+Angela Park,2026-06-25,50,Annual Gala,Check
