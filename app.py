@@ -1,7 +1,16 @@
 import pandas as pd
 import streamlit as st
-import anthropic 
+import anthropic
 import plotly.express as px
+
+st.markdown("""
+    <style>
+    section[data-testid="stSidebar"] {
+    min-width: 400px;
+    max-width: 600px;
+    }
+    </style>
+""", unsafe_allow_html=True)
 
 #PAGE SETUP
 st.set_page_config(page_title="DONATIONS DASHBOARD", page_icon="📊", layout="wide")
@@ -11,13 +20,13 @@ st.caption("Upload your donation data to visualize trends + Get insights with ou
 #LOAD DATA
 uploaded = st.sidebar.file_uploader("Upload a donations CSV", type="csv")
 st.sidebar.caption("Expected columns: donor_name, date, amount, campaign, payment_method")
- 
+
 if uploaded:
     df = pd.read_csv(uploaded)
 else:
     st.sidebar.info("No file uploaded — using sample data.")
     df = pd.read_csv("sample_donations.csv")
- 
+
 df["date"] = pd.to_datetime(df["date"])
 df["month"] = df["date"].dt.to_period("M").astype(str)
 
@@ -29,35 +38,33 @@ def build_summary(df):
 
     #New vs Returning donors per month
     first_gift = df.groupby("donor_name")["date"].min()
-    df2 = df.merge(first_gift.rename("first_gift"), on = "donor_name")
+    df2 = df.merge(first_gift.rename("first_gift"), on="donor_name")
     df2["donor_type"] = (df2["date"] == df2["first_gift"]).map({True: "new", False: "returning"})
     donor_mix = df2.groupby("donor_type")["amount"].sum().round(0).to_dict()
 
     return (
-        f"Total raised: ${df['amount'].sum():,.0f} from {len(df)} donations."
-        f"by {df['donor_name'].nunique()} unique donors."
+        f"Total raised: ${df['amount'].sum():,.0f} from {len(df)} donations "
+        f"by {df['donor_name'].nunique()} unique donors. "
         f"Average gift: ${df['amount'].mean():,.2f}.\n"
         f"Monthly totals: {monthly}\n"
         f"Campaign totals: {campaigns}\n"
         f"New vs Returning donor revenue: {donor_mix}"
     )
 
-#SEND PROMPT TO CAUDE 
+#SEND PROMPT TO CLAUDE
 def ask_claude(prompt):
-    client = anthropic.Anthropic(api_key = st.secrets["ANTHROPIC_API_KEY"])
+    client = anthropic.Anthropic(api_key=st.secrets["ANTHROPIC_API_KEY"])
     response = client.messages.create(
-        model = "claude-sonnet-4-5",
+        model="claude-sonnet-4-5",
         max_tokens=600,
         messages=[{"role": "user", "content": prompt}],
     )
-
     return response.content[0].text
 
 summary = build_summary(df)
 
-
 #AI INSIGHTS
-@st.cache_data(show_spinner="Analyizing...")
+@st.cache_data(show_spinner="Analyzing...")
 def get_briefing(summary):
     return ask_claude(
         "You are an advisor to a small nonprofit's executive director. "
@@ -68,7 +75,6 @@ def get_briefing(summary):
 
 with st.expander("AI INSIGHTS", expanded=True):
     st.info(get_briefing(summary))
-
 
 #METRICS
 total = df["amount"].sum()
@@ -153,7 +159,16 @@ with right:
         },
         height=320,
     )
+
 #CLAUDE CHATBOT CALL
+system_prompt = (
+    "You are a donation data analyzing chatbot for a nonprofit. "
+    "Answer questions using ONLY this donation data summary. "
+    "If the summary does not contain enough information, say so. "
+    "Keep answers to 2-3 sentences.\n\n"
+    f"Data summary:\n{summary}"
+)
+
 def chat_with_claude(messages):
     client = anthropic.Anthropic(api_key=st.secrets["ANTHROPIC_API_KEY"])
     response = client.messages.create(
@@ -165,36 +180,32 @@ def chat_with_claude(messages):
     return response.content[0].text
 
 #CHATBOT
-st.header("DATA CHAT 💬")
-system_prompt = (
-       "You are a donation data analyzing chatbot for a nonprofit. "
-       "Answer questions using ONLY this donation data summary. "
-       "If the summary does not contain enough information, say so.\n\n"
-       f"Data summary:\n{summary}"
-   )
-
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = [
         {"role": "assistant", "content": "Welcome to the data chatbot! Ask me anything about your donations data ☺️"}
     ]
 
-for msg in st.session_state.chat_history:
-    with st.chat_message(msg["role"]):
-        st.markdown(msg["content"])
+with st.sidebar:
+    st.divider()
+    st.subheader("💬 Data Chat")
 
-user_question = st.chat_input("Ask a question about your donation data...")
+    with st.container(height=400):
+        for msg in st.session_state.chat_history:
+            with st.chat_message(msg["role"]):
+                st.markdown(msg["content"])
+
+    user_question = st.chat_input("Ask about your data...")
 
 if user_question:
-    st.session_state.chat_history.append({"role":"user", "content":user_question})
-    with st.chat_message("user"):
-        st.markdown(user_question)
+    st.session_state.chat_history.append({"role": "user", "content": user_question})
 
     api_messages = [
-        m for m in st.session_state.chat_history if m["content"] and m["role"] in ("user", "assistant")][1:]
-    
-    with st.chat_message("assistant"):
-        with st.spinner("Thinking..."):
-            answer = chat_with_claude(api_messages)
-        st.markdown(answer)
+        m for m in st.session_state.chat_history
+        if m["content"] and m["role"] in ("user", "assistant")
+    ][1:]
 
-    st.session_state.chat_history.append({"role":"assistant", "content":answer})
+    with st.spinner("Thinking..."):
+        answer = chat_with_claude(api_messages)
+
+    st.session_state.chat_history.append({"role": "assistant", "content": answer})
+    st.rerun()
