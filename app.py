@@ -16,7 +16,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("📊 Donations Dashboard 💵")
-st.caption("Upload your donation data to visualize trends + Get insights with our chat~")
+st.caption("Upload your donation data to visualize trends + Get further insights with our chat~")
 
 #THEMES
 THEMES = {
@@ -212,7 +212,6 @@ if "chat_history" not in st.session_state:
     ]
 
 with st.sidebar:
-    st.divider()
     st.subheader("💬 Data Chat")
 
     with st.container(height=300):

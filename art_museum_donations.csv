@@ -1,0 +1,501 @@
+donor_name,date,amount,campaign,payment_method
+Walter Reyes,2025-01-01,100,Annual Fund,Credit Card
+Georgia Okafor,2025-01-02,65,Membership Drive,PayPal
+Vincent Sinclair,2025-01-02,65,Membership Drive,Credit Card
+Georgia Castellano,2025-01-02,150,Membership Drive,Check
+Leo Okafor,2025-01-03,95,Membership Drive,Credit Card
+Vincent Sinclair,2025-01-03,65,Membership Drive,Credit Card
+Frederick Novak,2025-01-05,5000,New Wing Capital Campaign,Check
+Georgia Vasquez,2025-01-05,50,Youth Art Education Program,Check
+Julian Tanaka,2025-01-05,65,Membership Drive,Cash
+Julian Castellano,2025-01-07,65,Membership Drive,PayPal
+Miriam Castellano,2025-01-07,95,Membership Drive,Check
+Theodore Rosenberg,2025-01-07,300,Membership Drive,Credit Card
+Margaret Novak,2025-01-09,95,Membership Drive,Credit Card
+Georgia Chen,2025-01-10,150,Membership Drive,Credit Card
+Georgia Chen,2025-01-10,150,Membership Drive,Check
+Leo Winslow,2025-01-10,50,Youth Art Education Program,PayPal
+Julian Tanaka,2025-01-10,50,Annual Fund,Credit Card
+Henry Abernathy,2025-01-11,95,Membership Drive,Credit Card
+Oscar Vasquez,2025-01-14,150,Membership Drive,PayPal
+Oscar Vasquez,2025-01-15,300,Membership Drive,PayPal
+Isabella Tanaka,2025-01-16,100,Youth Art Education Program,Credit Card
+Frances Beaumont,2025-01-16,75,Youth Art Education Program,Cash
+Julian Tanaka,2025-01-16,300,Membership Drive,Check
+Oscar Okafor,2025-01-16,2500,New Wing Capital Campaign,Check
+Leo Okafor,2025-01-16,65,Membership Drive,Credit Card
+Sophia Vasquez,2025-01-16,100,Annual Fund,Check
+Beatrice Rosenberg,2025-01-17,65,Membership Drive,Credit Card
+Camille Osei,2025-01-17,95,Membership Drive,Check
+Margaret Novak,2025-01-18,25,Annual Fund,Cash
+Theodore Osei,2025-01-18,150,Membership Drive,Credit Card
+Julian Tanaka,2025-01-19,500,Exhibition Sponsorship: Modern Voices,Credit Card
+Arthur Chen,2025-01-19,200,Youth Art Education Program,Credit Card
+Julian Tanaka,2025-01-19,100,Annual Fund,Check
+Leo Okafor,2025-01-19,95,Membership Drive,Credit Card
+Vivian Beaumont,2025-01-20,150,Membership Drive,PayPal
+Margaret Patel,2025-01-21,10000,New Wing Capital Campaign,Credit Card
+Eleanor Reyes,2025-01-21,95,Membership Drive,Credit Card
+Henry Abernathy,2025-01-21,50,Annual Fund,Credit Card
+Margaret Rosenberg,2025-01-22,50,Annual Fund,Check
+Arthur Delacroix,2025-01-28,300,Membership Drive,Check
+Julian Tanaka,2025-01-28,150,Annual Fund,Stock Transfer
+Georgia Patel,2025-01-29,65,Membership Drive,Credit Card
+Georgia Kimura,2025-01-29,100,Annual Fund,Credit Card
+Julian Tanaka,2025-01-30,95,Membership Drive,PayPal
+Walter Reyes,2025-01-30,2500,Exhibition Sponsorship: Modern Voices,Credit Card
+Georgia Patel,2025-01-31,65,Membership Drive,PayPal
+Marcus Osei,2025-02-01,20,Youth Art Education Program,Credit Card
+Sophia Vasquez,2025-02-04,50,Annual Fund,Credit Card
+Sophia Okafor,2025-02-08,95,Membership Drive,Credit Card
+Georgia Vasquez,2025-02-09,300,Membership Drive,Credit Card
+Vincent Sinclair,2025-02-09,2500,Exhibition Sponsorship: Modern Voices,Stock Transfer
+Oscar Vasquez,2025-02-14,150,Annual Fund,Credit Card
+Vincent Sinclair,2025-02-14,50,Youth Art Education Program,Credit Card
+Margaret Winslow,2025-02-14,250,Annual Fund,Credit Card
+Henry Abernathy,2025-02-17,100,Annual Fund,PayPal
+Vincent Reyes,2025-02-18,100,Annual Fund,Credit Card
+Leo Okafor,2025-02-18,500,Exhibition Sponsorship: Modern Voices,Credit Card
+Sophia Osei,2025-02-19,5000,Exhibition Sponsorship: Modern Voices,Credit Card
+Leo Kimura,2025-02-19,65,Membership Drive,Credit Card
+Margaret Novak,2025-02-20,2500,New Wing Capital Campaign,Credit Card
+Camille Osei,2025-02-23,2500,New Wing Capital Campaign,Check
+Vivian Chen,2025-02-23,50,Youth Art Education Program,Credit Card
+Sophia Beaumont,2025-02-24,500,Museum Gala: Art After Dark,Check
+Georgia Lindqvist,2025-02-28,100,Annual Fund,Credit Card
+Vincent Sinclair,2025-03-01,20,Youth Art Education Program,Check
+Oscar Vasquez,2025-03-01,95,Membership Drive,Credit Card
+Vincent Reyes,2025-03-05,1500,Museum Gala: Art After Dark,Credit Card
+Charles Delacroix,2025-03-06,50,Youth Art Education Program,Cash
+Beatrice Rosenberg,2025-03-06,100,Annual Fund,PayPal
+Oscar Okafor,2025-03-07,100,Youth Art Education Program,Check
+Julian Tanaka,2025-03-08,50,Annual Fund,Cash
+Frederick Novak,2025-03-09,500,Exhibition Sponsorship: Modern Voices,Credit Card
+Sophia Delacroix,2025-03-09,200,Youth Art Education Program,Credit Card
+Henry Abernathy,2025-03-09,150,Membership Drive,Credit Card
+Walter Reyes,2025-03-11,50,Annual Fund,Credit Card
+Vincent Lindqvist,2025-03-11,1000,New Wing Capital Campaign,Credit Card
+Sophia Okafor,2025-03-14,75,Youth Art Education Program,Cash
+Georgia Lindqvist,2025-03-15,95,Membership Drive,Credit Card
+Leo Okafor,2025-03-17,25,Youth Art Education Program,PayPal
+Arthur Lindqvist,2025-03-20,300,Membership Drive,Check
+Theodore Osei,2025-03-21,95,Membership Drive,Credit Card
+Frederick Novak,2025-03-22,25,Annual Fund,PayPal
+Julian Tanaka,2025-03-23,2500,Exhibition Sponsorship: Modern Voices,Stock Transfer
+Henry Osei,2025-03-23,100,Annual Fund,Credit Card
+Julian Kaplan,2025-03-24,300,Membership Drive,Credit Card
+Vivian Beaumont,2025-03-28,2500,New Wing Capital Campaign,Credit Card
+Margaret Novak,2025-03-28,100,Annual Fund,Credit Card
+Arthur Chen,2025-03-29,95,Membership Drive,Check
+Theodore Rosenberg,2025-04-01,50,Annual Fund,Credit Card
+Henry Abernathy,2025-04-03,100,Annual Fund,Cash
+Eleanor Winslow,2025-04-04,95,Membership Drive,Check
+Marcus Osei,2025-04-08,200,Youth Art Education Program,Credit Card
+Walter Reyes,2025-04-12,75,Youth Art Education Program,Credit Card
+Marcus Osei,2025-04-14,65,Membership Drive,Check
+Georgia Reyes,2025-04-15,150,Annual Fund,Credit Card
+Frederick Novak,2025-04-15,150,Annual Fund,Credit Card
+Henry Abernathy,2025-04-15,65,Membership Drive,Credit Card
+Walter Reyes,2025-04-16,65,Membership Drive,Credit Card
+Leo Okafor,2025-04-18,150,Annual Fund,PayPal
+Georgia Vasquez,2025-04-20,100,Annual Fund,Credit Card
+Vivian Beaumont,2025-04-21,5000,Exhibition Sponsorship: Modern Voices,Credit Card
+Walter Reyes,2025-04-25,50,Annual Fund,Credit Card
+Margaret Rosenberg,2025-04-26,2500,New Wing Capital Campaign,Credit Card
+Eleanor Winslow,2025-04-26,25000,New Wing Capital Campaign,Check
+Leo Okafor,2025-04-26,150,Annual Fund,Credit Card
+Georgia Reyes,2025-05-01,65,Membership Drive,Credit Card
+Isabella Tanaka,2025-05-02,1000,Exhibition Sponsorship: Modern Voices,Stock Transfer
+Georgia Chen,2025-05-03,1000,Exhibition Sponsorship: Modern Voices,Credit Card
+Eleanor Rosenberg,2025-05-05,5000,New Wing Capital Campaign,Credit Card
+Henry Abernathy,2025-05-05,500,Exhibition Sponsorship: Modern Voices,Credit Card
+Henry Abernathy,2025-05-06,25000,New Wing Capital Campaign,Credit Card
+Sophia Beaumont,2025-05-06,100,Annual Fund,Check
+Edgar Vasquez,2025-05-07,65,Membership Drive,Credit Card
+Marcus Osei,2025-05-08,95,Membership Drive,Credit Card
+Marcus Delacroix,2025-05-09,10000,New Wing Capital Campaign,Credit Card
+Julian Sinclair,2025-05-13,50,Annual Fund,Check
+Eleanor Reyes,2025-05-15,25,Annual Fund,Credit Card
+Charles Reyes,2025-05-17,25,Youth Art Education Program,Credit Card
+Walter Reyes,2025-05-18,25,Annual Fund,Credit Card
+Eleanor Reyes,2025-05-18,100,Annual Fund,Credit Card
+Walter Reyes,2025-05-21,300,Membership Drive,Credit Card
+Vivian Beaumont,2025-05-21,50,Annual Fund,PayPal
+Georgia Vasquez,2025-05-24,95,Membership Drive,Credit Card
+Sophia Delacroix,2025-05-24,1000,New Wing Capital Campaign,PayPal
+Isabella Patel,2025-05-24,2500,Exhibition Sponsorship: Modern Voices,Credit Card
+Walter Reyes,2025-05-27,20,Youth Art Education Program,PayPal
+Julian Sinclair,2025-05-28,150,Annual Fund,Credit Card
+Leo Okafor,2025-05-28,50,Annual Fund,Credit Card
+Vincent Sinclair,2025-05-30,500,Exhibition Sponsorship: Modern Voices,Credit Card
+Vivian Chen,2025-05-31,250,Annual Fund,Credit Card
+Oscar Vasquez,2025-06-01,100,Youth Art Education Program,Credit Card
+Isabella Patel,2025-06-01,150,Membership Drive,PayPal
+Henry Abernathy,2025-06-02,100,Annual Fund,Credit Card
+Julian Tanaka,2025-06-05,300,Membership Drive,PayPal
+Vincent Sinclair,2025-06-07,50,Youth Art Education Program,PayPal
+Sophia Delacroix,2025-06-08,300,Membership Drive,Check
+Henry Abernathy,2025-06-08,500,Exhibition Sponsorship: Modern Voices,Check
+Vincent Sinclair,2025-06-10,1000,Exhibition Sponsorship: Modern Voices,PayPal
+Vincent Sinclair,2025-06-10,50,Annual Fund,PayPal
+Theodore Rosenberg,2025-06-12,100,Annual Fund,Credit Card
+Arthur Chen,2025-06-14,65,Membership Drive,Credit Card
+Georgia Lindqvist,2025-06-16,150,Annual Fund,Cash
+Margaret Novak,2025-06-17,95,Membership Drive,PayPal
+Sophia Delacroix,2025-06-18,500,Exhibition Sponsorship: Modern Voices,Check
+Leo Okafor,2025-06-19,300,Membership Drive,Check
+Leo Okafor,2025-06-22,95,Membership Drive,Check
+Georgia Reyes,2025-06-23,25,Youth Art Education Program,PayPal
+Walter Reyes,2025-06-28,2500,New Wing Capital Campaign,Credit Card
+Georgia Okafor,2025-06-30,150,Annual Fund,PayPal
+Beatrice Rosenberg,2025-07-05,50,Annual Fund,Credit Card
+Marcus Delacroix,2025-07-05,50,Annual Fund,Check
+Leo Okafor,2025-07-07,100,Annual Fund,Credit Card
+Georgia Reyes,2025-07-07,150,Annual Fund,Check
+Vincent Sinclair,2025-07-09,1000,Museum Gala: Art After Dark,Credit Card
+Henry Abernathy,2025-07-11,50,Youth Art Education Program,Cash
+Julian Kaplan,2025-07-14,65,Membership Drive,Check
+Theodore Osei,2025-07-14,65,Membership Drive,Cash
+Frederick Novak,2025-07-15,250,Annual Fund,Check
+Rosalind Kimura,2025-07-18,2500,Exhibition Sponsorship: Modern Voices,Credit Card
+Marcus Delacroix,2025-07-19,200,Youth Art Education Program,Credit Card
+Margaret Winslow,2025-07-19,250,Annual Fund,Credit Card
+Arthur Delacroix,2025-07-21,50,Annual Fund,Check
+Vivian Chen,2025-07-21,65,Membership Drive,Credit Card
+Eleanor Rosenberg,2025-07-21,250,Annual Fund,PayPal
+Charles Sinclair,2025-07-23,65,Membership Drive,Credit Card
+Georgia Kimura,2025-07-24,65,Membership Drive,Check
+Leo Okafor,2025-07-25,250,Annual Fund,PayPal
+Theodore Osei,2025-07-26,95,Membership Drive,Credit Card
+Sophia Sinclair,2025-07-26,250,Annual Fund,Stock Transfer
+Frederick Chen,2025-07-27,25,Youth Art Education Program,Credit Card
+Leo Okafor,2025-07-27,65,Membership Drive,Credit Card
+Eleanor Winslow,2025-07-28,1000,New Wing Capital Campaign,Credit Card
+Vincent Sinclair,2025-07-30,2500,Exhibition Sponsorship: Modern Voices,Stock Transfer
+Vivian Chen,2025-07-30,150,Annual Fund,PayPal
+Julian Tanaka,2025-07-30,25,Annual Fund,Credit Card
+Isabella Patel,2025-07-31,50,Annual Fund,Check
+Marcus Osei,2025-08-07,250,Annual Fund,Cash
+Isabella Patel,2025-08-08,1000,Exhibition Sponsorship: Modern Voices,Stock Transfer
+Margaret Novak,2025-08-10,50,Annual Fund,Credit Card
+Walter Reyes,2025-08-11,50,Annual Fund,Cash
+Leo Okafor,2025-08-12,100,Annual Fund,Credit Card
+Vincent Sinclair,2025-08-15,50,Annual Fund,Credit Card
+Frances Beaumont,2025-08-15,25,Annual Fund,Credit Card
+Henry Abernathy,2025-08-16,250,Annual Fund,Credit Card
+Georgia Lindqvist,2025-08-16,95,Membership Drive,Credit Card
+Leo Okafor,2025-08-17,20,Youth Art Education Program,Cash
+Georgia Patel,2025-08-17,2500,Exhibition Sponsorship: Modern Voices,PayPal
+Margaret Patel,2025-08-18,1000,Museum Gala: Art After Dark,Cash
+Sophia Vasquez,2025-08-18,25,Annual Fund,Credit Card
+Margaret Winslow,2025-08-21,25,Youth Art Education Program,Check
+Leo Okafor,2025-08-23,500,Exhibition Sponsorship: Modern Voices,Credit Card
+Leo Okafor,2025-08-24,25,Annual Fund,Cash
+Charles Reyes,2025-08-25,100,Annual Fund,Credit Card
+Charles Sinclair,2025-08-28,1000,Exhibition Sponsorship: Modern Voices,Credit Card
+Frederick Novak,2025-09-01,250,Museum Gala: Art After Dark,Check
+Eleanor Reyes,2025-09-02,1000,Exhibition Sponsorship: Modern Voices,Credit Card
+Vincent Sinclair,2025-09-02,25,Annual Fund,PayPal
+Georgia Okafor,2025-09-05,150,Annual Fund,Check
+Georgia Vasquez,2025-09-06,1000,Exhibition Sponsorship: Modern Voices,Credit Card
+Eleanor Reyes,2025-09-07,50,Annual Fund,Credit Card
+Leo Okafor,2025-09-08,65,Membership Drive,Credit Card
+Vincent Sinclair,2025-09-10,1000,Exhibition Sponsorship: Modern Voices,PayPal
+Eleanor Winslow,2025-09-13,1000,Exhibition Sponsorship: Modern Voices,Credit Card
+Vincent Sinclair,2025-09-15,100,Annual Fund,Credit Card
+Vivian Castellano,2025-09-15,2500,New Wing Capital Campaign,Credit Card
+Georgia Kimura,2025-09-16,100,Annual Fund,Credit Card
+Leo Okafor,2025-09-16,5000,Exhibition Sponsorship: Modern Voices,Credit Card
+Julian Tanaka,2025-09-17,25,Annual Fund,Stock Transfer
+Frederick Novak,2025-09-19,500,Museum Gala: Art After Dark,Check
+Charles Reyes,2025-09-19,5000,New Wing Capital Campaign,Credit Card
+Leo Winslow,2025-09-20,95,Membership Drive,Credit Card
+Walter Reyes,2025-09-24,50,Annual Fund,Credit Card
+Vincent Sinclair,2025-09-24,2000,New Wing Capital Campaign,Check
+Leo Okafor,2025-09-25,1000,Exhibition Sponsorship: Modern Voices,Credit Card
+Sophia Sinclair,2025-09-25,95,Membership Drive,Credit Card
+Charles Reyes,2025-09-25,50,Annual Fund,Credit Card
+Sophia Vasquez,2025-09-27,5000,New Wing Capital Campaign,Check
+Henry Abernathy,2025-09-28,25,Annual Fund,Credit Card
+Vivian Chen,2025-09-29,20,Youth Art Education Program,PayPal
+Leo Okafor,2025-09-30,500,Museum Gala: Art After Dark,Check
+Frederick Lindqvist,2025-09-30,75,Youth Art Education Program,PayPal
+Arthur Delacroix,2025-10-01,2500,Museum Gala: Art After Dark,Check
+Marcus Delacroix,2025-10-01,2500,Museum Gala: Art After Dark,Credit Card
+Leo Okafor,2025-10-01,1500,Museum Gala: Art After Dark,Credit Card
+Beatrice Abernathy,2025-10-01,1000,Exhibition Sponsorship: Modern Voices,Credit Card
+Rosalind Kimura,2025-10-02,250,Museum Gala: Art After Dark,Credit Card
+Arthur Lindqvist,2025-10-02,1500,Museum Gala: Art After Dark,PayPal
+Julian Sinclair,2025-10-02,1500,Museum Gala: Art After Dark,Cash
+Oscar Castellano,2025-10-03,250,Museum Gala: Art After Dark,Credit Card
+Isabella Tanaka,2025-10-03,500,Exhibition Sponsorship: Modern Voices,Check
+Theodore Osei,2025-10-03,250,Museum Gala: Art After Dark,Check
+Vincent Sinclair,2025-10-03,500,Museum Gala: Art After Dark,Cash
+Walter Reyes,2025-10-03,500,Exhibition Sponsorship: Modern Voices,Credit Card
+Walter Reyes,2025-10-04,1500,Museum Gala: Art After Dark,Check
+Vincent Sinclair,2025-10-04,250,Museum Gala: Art After Dark,Credit Card
+Julian Tanaka,2025-10-04,20000,New Wing Capital Campaign,Credit Card
+Marcus Delacroix,2025-10-04,250,Museum Gala: Art After Dark,Credit Card
+Julian Tanaka,2025-10-05,100,Youth Art Education Program,Credit Card
+Theodore Osei,2025-10-05,1000,Museum Gala: Art After Dark,Credit Card
+Walter Reyes,2025-10-06,1500,Museum Gala: Art After Dark,PayPal
+Frederick Chen,2025-10-06,500,Museum Gala: Art After Dark,Cash
+Julian Kaplan,2025-10-07,1000,Museum Gala: Art After Dark,Credit Card
+Sophia Vasquez,2025-10-07,5000,Museum Gala: Art After Dark,Credit Card
+Vincent Lindqvist,2025-10-08,2500,Museum Gala: Art After Dark,Credit Card
+Georgia Reyes,2025-10-08,2500,Museum Gala: Art After Dark,Check
+Leo Okafor,2025-10-08,1500,Museum Gala: Art After Dark,Check
+Charles Delacroix,2025-10-08,500,Museum Gala: Art After Dark,Credit Card
+Marcus Osei,2025-10-08,25,Annual Fund,Check
+Margaret Winslow,2025-10-09,250,Museum Gala: Art After Dark,Check
+Arthur Chen,2025-10-09,2500,Museum Gala: Art After Dark,PayPal
+Frederick Lindqvist,2025-10-10,1500,Museum Gala: Art After Dark,Credit Card
+Georgia Lindqvist,2025-10-10,2500,Museum Gala: Art After Dark,Check
+Rosalind Kimura,2025-10-10,2500,Museum Gala: Art After Dark,Credit Card
+Charles Delacroix,2025-10-11,1000,Museum Gala: Art After Dark,PayPal
+Vincent Sinclair,2025-10-12,250,Museum Gala: Art After Dark,Check
+Georgia Reyes,2025-10-12,1000,Museum Gala: Art After Dark,Credit Card
+Charles Reyes,2025-10-13,1000,Exhibition Sponsorship: Modern Voices,Credit Card
+Frederick Novak,2025-10-14,5000,Museum Gala: Art After Dark,Credit Card
+Frederick Novak,2025-10-14,75,Youth Art Education Program,Check
+Theodore Osei,2025-10-14,500,Museum Gala: Art After Dark,Check
+Walter Reyes,2025-10-15,3000,Museum Gala: Art After Dark,PayPal
+Frederick Rosenberg,2025-10-15,1500,Museum Gala: Art After Dark,Credit Card
+Sophia Sinclair,2025-10-15,500,Museum Gala: Art After Dark,Credit Card
+Frederick Novak,2025-10-15,3000,Museum Gala: Art After Dark,Check
+Vivian Beaumont,2025-10-15,1500,Museum Gala: Art After Dark,Stock Transfer
+Oscar Castellano,2025-10-16,1500,Museum Gala: Art After Dark,Credit Card
+Julian Kaplan,2025-10-16,500,Museum Gala: Art After Dark,Credit Card
+Leo Kimura,2025-10-16,200,Youth Art Education Program,Credit Card
+Georgia Lindqvist,2025-10-16,25,Youth Art Education Program,Check
+Julian Tanaka,2025-10-17,1000,Museum Gala: Art After Dark,Credit Card
+Vincent Lindqvist,2025-10-17,250,Museum Gala: Art After Dark,Check
+Walter Reyes,2025-10-17,100,Youth Art Education Program,Check
+Henry Abernathy,2025-10-17,1000,Museum Gala: Art After Dark,PayPal
+Julian Tanaka,2025-10-18,500,Museum Gala: Art After Dark,Credit Card
+Georgia Reyes,2025-10-18,250,Museum Gala: Art After Dark,Credit Card
+Julian Tanaka,2025-10-18,1000,Museum Gala: Art After Dark,Credit Card
+Camille Osei,2025-10-18,2500,Museum Gala: Art After Dark,Stock Transfer
+Isabella Sinclair,2025-10-18,25,Annual Fund,PayPal
+Leo Winslow,2025-10-18,500,Museum Gala: Art After Dark,Credit Card
+Frederick Novak,2025-10-19,500,Museum Gala: Art After Dark,Credit Card
+Vincent Sinclair,2025-10-19,500,Museum Gala: Art After Dark,Credit Card
+Arthur Delacroix,2025-10-20,500,Museum Gala: Art After Dark,PayPal
+Georgia Chen,2025-10-20,250,Museum Gala: Art After Dark,PayPal
+Julian Castellano,2025-10-21,1000,Museum Gala: Art After Dark,PayPal
+Vivian Beaumont,2025-10-21,500,Museum Gala: Art After Dark,Check
+Leo Okafor,2025-10-21,250,Annual Fund,Credit Card
+Frederick Novak,2025-10-21,100,Annual Fund,Credit Card
+Vivian Castellano,2025-10-22,75,Youth Art Education Program,Check
+Margaret Patel,2025-10-22,5000,New Wing Capital Campaign,Check
+Charles Delacroix,2025-10-22,1500,Museum Gala: Art After Dark,Credit Card
+Oscar Castellano,2025-10-22,500,Museum Gala: Art After Dark,Credit Card
+Oscar Vasquez,2025-10-23,250,Museum Gala: Art After Dark,Check
+Frederick Novak,2025-10-23,1000,Museum Gala: Art After Dark,Check
+Vivian Castellano,2025-10-23,500,Museum Gala: Art After Dark,Credit Card
+Frederick Novak,2025-10-24,25,Annual Fund,Cash
+Charles Reyes,2025-10-25,1500,Museum Gala: Art After Dark,Check
+Theodore Osei,2025-10-25,250,Museum Gala: Art After Dark,Check
+Georgia Patel,2025-10-26,1500,Museum Gala: Art After Dark,Credit Card
+Arthur Lindqvist,2025-10-26,2500,Museum Gala: Art After Dark,Credit Card
+Henry Osei,2025-10-27,1500,Museum Gala: Art After Dark,Cash
+Leo Kimura,2025-10-27,1000,Museum Gala: Art After Dark,Check
+Frederick Beaumont,2025-10-27,2500,Museum Gala: Art After Dark,Credit Card
+Frederick Novak,2025-10-28,50,Annual Fund,Credit Card
+Vincent Lindqvist,2025-10-28,5000,Museum Gala: Art After Dark,Credit Card
+Leo Okafor,2025-10-28,500,Museum Gala: Art After Dark,Credit Card
+Isabella Tanaka,2025-11-06,1000,Museum Gala: Art After Dark,Credit Card
+Georgia Castellano,2025-11-07,100,Annual Fund,Cash
+Vincent Sinclair,2025-11-07,20,Youth Art Education Program,Stock Transfer
+Frederick Rosenberg,2025-11-08,2500,Exhibition Sponsorship: Modern Voices,PayPal
+Camille Abernathy,2025-11-12,100,Annual Fund,Credit Card
+Georgia Kimura,2025-11-13,150,Membership Drive,Credit Card
+Vincent Sinclair,2025-11-14,50,Annual Fund,Credit Card
+Vincent Reyes,2025-11-15,150,Annual Fund,Credit Card
+Julian Sinclair,2025-11-16,200,Youth Art Education Program,Credit Card
+Margaret Rosenberg,2025-11-16,2500,New Wing Capital Campaign,Check
+Edgar Okafor,2025-11-16,250,Annual Fund,Credit Card
+Theodore Osei,2025-11-19,250,Annual Fund,Credit Card
+Vincent Sinclair,2025-11-21,95,Membership Drive,PayPal
+Frederick Lindqvist,2025-11-23,50,Youth Art Education Program,Credit Card
+Henry Abernathy,2025-11-25,10000,New Wing Capital Campaign,Credit Card
+Frederick Beaumont,2025-11-27,50,Annual Fund,Credit Card
+Miriam Osei,2025-11-30,100,Annual Fund,Credit Card
+Charles Reyes,2025-12-01,100,Annual Fund,Credit Card
+Isabella Tanaka,2025-12-02,50,Youth Art Education Program,Credit Card
+Margaret Rosenberg,2025-12-05,20,Youth Art Education Program,PayPal
+Leo Kimura,2025-12-05,150,Annual Fund,PayPal
+Vincent Reyes,2025-12-05,100,Annual Fund,PayPal
+Isabella Sinclair,2025-12-06,95,Membership Drive,Credit Card
+Charles Delacroix,2025-12-08,25,Annual Fund,PayPal
+Marcus Patel,2025-12-10,25000,New Wing Capital Campaign,PayPal
+Isabella Sinclair,2025-12-10,65,Membership Drive,Credit Card
+Sophia Osei,2025-12-12,100,Annual Fund,Credit Card
+Margaret Novak,2025-12-15,300,Membership Drive,Check
+Julian Tanaka,2025-12-17,10000,New Wing Capital Campaign,Credit Card
+Henry Osei,2025-12-17,150,Annual Fund,Credit Card
+Leo Okafor,2025-12-17,95,Membership Drive,Credit Card
+Oscar Okafor,2025-12-19,20,Youth Art Education Program,Stock Transfer
+Marcus Patel,2025-12-19,50,Youth Art Education Program,PayPal
+Frederick Chen,2025-12-20,1000,New Wing Capital Campaign,Cash
+Julian Tanaka,2025-12-22,1000,Exhibition Sponsorship: Modern Voices,Check
+Julian Tanaka,2025-12-22,2500,Exhibition Sponsorship: Modern Voices,Credit Card
+Vincent Sinclair,2025-12-22,65,Membership Drive,Credit Card
+Henry Abernathy,2025-12-23,100,Annual Fund,Credit Card
+Leo Okafor,2025-12-23,95,Membership Drive,Credit Card
+Beatrice Abernathy,2025-12-24,500,Exhibition Sponsorship: Modern Voices,Stock Transfer
+Henry Abernathy,2025-12-25,100,Annual Fund,PayPal
+Oscar Castellano,2025-12-25,150,Membership Drive,Credit Card
+Vivian Chen,2025-12-26,2500,New Wing Capital Campaign,Credit Card
+Georgia Castellano,2025-12-26,100,Annual Fund,Cash
+Walter Reyes,2025-12-27,250,Annual Fund,Cash
+Oscar Vasquez,2025-12-29,250,Annual Fund,Credit Card
+Georgia Vasquez,2025-12-30,150,Annual Fund,PayPal
+Leo Okafor,2026-01-01,5000,Exhibition Sponsorship: Modern Voices,PayPal
+Eleanor Rosenberg,2026-01-02,65,Membership Drive,Credit Card
+Leo Okafor,2026-01-02,150,Membership Drive,PayPal
+Sophia Vasquez,2026-01-03,150,Membership Drive,Check
+Sophia Okafor,2026-01-03,100,Youth Art Education Program,Check
+Margaret Winslow,2026-01-04,65,Membership Drive,Credit Card
+Julian Kaplan,2026-01-04,5000,Exhibition Sponsorship: Modern Voices,Credit Card
+Frederick Beaumont,2026-01-04,300,Membership Drive,PayPal
+Henry Abernathy,2026-01-05,65,Membership Drive,Stock Transfer
+Marcus Delacroix,2026-01-06,95,Membership Drive,Credit Card
+Leo Okafor,2026-01-06,200,Youth Art Education Program,Check
+Eleanor Winslow,2026-01-06,200,Youth Art Education Program,Credit Card
+Vivian Chen,2026-01-07,65,Membership Drive,Credit Card
+Henry Abernathy,2026-01-07,150,Annual Fund,Stock Transfer
+Vincent Lindqvist,2026-01-07,65,Membership Drive,Credit Card
+Georgia Kimura,2026-01-07,50,Annual Fund,Credit Card
+Leo Okafor,2026-01-08,2500,Exhibition Sponsorship: Modern Voices,Credit Card
+Frederick Novak,2026-01-08,10000,New Wing Capital Campaign,PayPal
+Arthur Lindqvist,2026-01-08,25,Youth Art Education Program,Credit Card
+Miriam Castellano,2026-01-08,65,Membership Drive,PayPal
+Vivian Castellano,2026-01-10,50,Annual Fund,Check
+Julian Tanaka,2026-01-10,2500,New Wing Capital Campaign,Credit Card
+Sophia Osei,2026-01-11,150,Annual Fund,Credit Card
+Julian Sinclair,2026-01-12,95,Membership Drive,Credit Card
+Julian Tanaka,2026-01-12,65,Membership Drive,Credit Card
+Vincent Reyes,2026-01-13,95,Membership Drive,Credit Card
+Beatrice Rosenberg,2026-01-13,25,Youth Art Education Program,PayPal
+Margaret Patel,2026-01-13,65,Membership Drive,Credit Card
+Georgia Castellano,2026-01-13,150,Membership Drive,Check
+Theodore Rosenberg,2026-01-14,300,Membership Drive,Cash
+Charles Delacroix,2026-01-16,65,Membership Drive,Credit Card
+Henry Abernathy,2026-01-16,50,Annual Fund,PayPal
+Georgia Lindqvist,2026-01-16,150,Membership Drive,Cash
+Frederick Rosenberg,2026-01-17,250,Annual Fund,Credit Card
+Miriam Osei,2026-01-17,50,Annual Fund,Credit Card
+Henry Abernathy,2026-01-18,50,Annual Fund,Credit Card
+Georgia Lindqvist,2026-01-18,95,Membership Drive,Credit Card
+Vincent Sinclair,2026-01-19,300,Membership Drive,Credit Card
+Henry Abernathy,2026-01-21,75,Youth Art Education Program,Check
+Margaret Patel,2026-01-21,250,Annual Fund,Credit Card
+Vincent Sinclair,2026-01-22,95,Membership Drive,Credit Card
+Isabella Tanaka,2026-01-22,300,Membership Drive,PayPal
+Margaret Winslow,2026-01-23,95,Membership Drive,Credit Card
+Oscar Castellano,2026-01-23,65,Membership Drive,Check
+Marcus Patel,2026-01-24,95,Membership Drive,PayPal
+Frederick Chen,2026-01-25,300,Membership Drive,PayPal
+Leo Winslow,2026-01-25,75,Youth Art Education Program,Cash
+Julian Tanaka,2026-01-26,300,Membership Drive,Check
+Theodore Rosenberg,2026-01-29,95,Membership Drive,Credit Card
+Arthur Lindqvist,2026-01-30,50,Annual Fund,Credit Card
+Julian Sinclair,2026-01-31,50,Youth Art Education Program,Stock Transfer
+Henry Abernathy,2026-02-01,50,Annual Fund,Credit Card
+Sophia Osei,2026-02-01,10000,New Wing Capital Campaign,Credit Card
+Henry Abernathy,2026-02-01,2000,New Wing Capital Campaign,PayPal
+Charles Sinclair,2026-02-06,2500,New Wing Capital Campaign,Credit Card
+Margaret Novak,2026-02-06,25,Youth Art Education Program,Credit Card
+Marcus Patel,2026-02-07,2500,Exhibition Sponsorship: Modern Voices,Credit Card
+Walter Reyes,2026-02-08,150,Annual Fund,Credit Card
+Sophia Sinclair,2026-02-08,5000,New Wing Capital Campaign,Check
+Walter Reyes,2026-02-10,50,Annual Fund,Credit Card
+Margaret Novak,2026-02-10,100,Annual Fund,Check
+Arthur Delacroix,2026-02-11,100,Annual Fund,Credit Card
+Arthur Chen,2026-02-11,20,Youth Art Education Program,PayPal
+Vincent Lindqvist,2026-02-14,50,Annual Fund,Credit Card
+Frances Beaumont,2026-02-14,2500,New Wing Capital Campaign,Credit Card
+Vivian Beaumont,2026-02-15,500,Exhibition Sponsorship: Modern Voices,Credit Card
+Vincent Reyes,2026-02-16,25,Annual Fund,Credit Card
+Vivian Chen,2026-02-17,25,Youth Art Education Program,Check
+Julian Sinclair,2026-02-18,50,Youth Art Education Program,Stock Transfer
+Henry Abernathy,2026-02-19,25,Annual Fund,Credit Card
+Julian Tanaka,2026-02-19,25,Annual Fund,Credit Card
+Sophia Vasquez,2026-02-19,50,Annual Fund,Check
+Georgia Vasquez,2026-02-20,20,Youth Art Education Program,Credit Card
+Marcus Patel,2026-02-21,200,Youth Art Education Program,Credit Card
+Leo Okafor,2026-03-02,25,Youth Art Education Program,Credit Card
+Arthur Lindqvist,2026-03-04,2500,Exhibition Sponsorship: Modern Voices,Credit Card
+Sophia Beaumont,2026-03-04,2500,Exhibition Sponsorship: Modern Voices,Credit Card
+Sophia Beaumont,2026-03-06,20,Youth Art Education Program,PayPal
+Sophia Sinclair,2026-03-07,50,Annual Fund,Credit Card
+Arthur Lindqvist,2026-03-07,5000,Exhibition Sponsorship: Modern Voices,Credit Card
+Leo Okafor,2026-03-08,50,Annual Fund,Credit Card
+Marcus Delacroix,2026-03-08,100,Youth Art Education Program,Check
+Sophia Delacroix,2026-03-09,50,Youth Art Education Program,Credit Card
+Arthur Chen,2026-03-13,20,Youth Art Education Program,Check
+Camille Beaumont,2026-03-23,50,Annual Fund,Credit Card
+Julian Tanaka,2026-03-24,10000,New Wing Capital Campaign,Credit Card
+Isabella Patel,2026-03-27,100,Annual Fund,Check
+Henry Abernathy,2026-03-30,25,Annual Fund,Credit Card
+Walter Reyes,2026-03-31,250,Annual Fund,Credit Card
+Julian Tanaka,2026-04-02,500,Exhibition Sponsorship: Modern Voices,Credit Card
+Edgar Okafor,2026-04-03,100,Annual Fund,Credit Card
+Margaret Winslow,2026-04-04,1000,Exhibition Sponsorship: Modern Voices,Check
+Vincent Sinclair,2026-04-13,150,Annual Fund,PayPal
+Walter Reyes,2026-04-14,250,Annual Fund,Credit Card
+Walter Reyes,2026-04-16,75,Youth Art Education Program,Check
+Arthur Lindqvist,2026-04-17,250,Annual Fund,Credit Card
+Leo Okafor,2026-04-19,50,Annual Fund,PayPal
+Walter Reyes,2026-04-21,500,Exhibition Sponsorship: Modern Voices,PayPal
+Georgia Patel,2026-04-22,25,Youth Art Education Program,Check
+Sophia Sinclair,2026-04-24,150,Annual Fund,Cash
+Leo Okafor,2026-04-24,200,Youth Art Education Program,Credit Card
+Frances Beaumont,2026-04-29,50,Annual Fund,Credit Card
+Frederick Novak,2026-04-30,5000,Exhibition Sponsorship: Modern Voices,Stock Transfer
+Eleanor Reyes,2026-05-04,150,Annual Fund,Check
+Beatrice Rosenberg,2026-05-05,65,Membership Drive,PayPal
+Marcus Osei,2026-05-09,50,Annual Fund,Check
+Sophia Delacroix,2026-05-10,1500,Museum Gala: Art After Dark,Check
+Georgia Reyes,2026-05-11,25,Annual Fund,Check
+Miriam Osei,2026-05-11,200,Youth Art Education Program,Credit Card
+Beatrice Rosenberg,2026-05-13,150,Annual Fund,Credit Card
+Rosalind Kimura,2026-05-13,2500,Museum Gala: Art After Dark,PayPal
+Walter Reyes,2026-05-15,5000,Exhibition Sponsorship: Modern Voices,Check
+Vincent Sinclair,2026-05-16,5000,Exhibition Sponsorship: Modern Voices,Credit Card
+Margaret Winslow,2026-05-17,100,Annual Fund,Credit Card
+Georgia Kimura,2026-05-17,95,Membership Drive,PayPal
+Arthur Lindqvist,2026-05-18,2500,New Wing Capital Campaign,Cash
+Eleanor Reyes,2026-05-18,150,Annual Fund,Cash
+Henry Abernathy,2026-05-18,75,Youth Art Education Program,Check
+Edgar Vasquez,2026-05-22,95,Membership Drive,Cash
+Georgia Lindqvist,2026-05-22,150,Annual Fund,Credit Card
+Camille Beaumont,2026-05-26,95,Membership Drive,Credit Card
+Vincent Reyes,2026-05-26,100,Annual Fund,PayPal
+Georgia Castellano,2026-05-29,2500,Exhibition Sponsorship: Modern Voices,Cash
+Leo Okafor,2026-05-30,5000,Exhibition Sponsorship: Modern Voices,Check
+Vivian Chen,2026-05-31,2500,Exhibition Sponsorship: Modern Voices,PayPal
+Sophia Sinclair,2026-06-03,1000,Museum Gala: Art After Dark,Credit Card
+Arthur Chen,2026-06-04,50,Annual Fund,Cash
+Margaret Patel,2026-06-06,50,Youth Art Education Program,Credit Card
+Frederick Rosenberg,2026-06-07,250,Annual Fund,Credit Card
+Henry Abernathy,2026-06-08,50,Annual Fund,Check
+Oscar Castellano,2026-06-09,250,Annual Fund,Credit Card
+Camille Abernathy,2026-06-09,150,Annual Fund,PayPal
+Miriam Castellano,2026-06-10,250,Annual Fund,Check
+Oscar Okafor,2026-06-11,1000,Exhibition Sponsorship: Modern Voices,Credit Card
+Frederick Lindqvist,2026-06-12,250,Annual Fund,Credit Card
+Camille Osei,2026-06-13,150,Annual Fund,Check
+Edgar Vasquez,2026-06-14,50,Annual Fund,PayPal
+Georgia Patel,2026-06-15,250,Annual Fund,Credit Card
+Henry Abernathy,2026-06-15,1000,New Wing Capital Campaign,Cash
+Oscar Vasquez,2026-06-15,1000,Exhibition Sponsorship: Modern Voices,Credit Card
+Walter Reyes,2026-06-19,500,Museum Gala: Art After Dark,Check
+Isabella Sinclair,2026-06-19,25,Annual Fund,Check
+Miriam Castellano,2026-06-20,2500,Exhibition Sponsorship: Modern Voices,Credit Card
+Julian Tanaka,2026-06-21,50,Annual Fund,Credit Card
+Camille Abernathy,2026-06-23,25,Annual Fund,Credit Card
+Beatrice Rosenberg,2026-06-25,150,Annual Fund,Credit Card
+Henry Abernathy,2026-06-25,50,Youth Art Education Program,Credit Card
+Charles Sinclair,2026-06-25,65,Membership Drive,Stock Transfer
