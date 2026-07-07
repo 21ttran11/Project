@@ -3,6 +3,9 @@ import streamlit as st
 import anthropic
 import plotly.express as px
 
+#PAGE SETUP
+st.set_page_config(page_title="DONATIONS DASHBOARD", page_icon="📊", layout="wide")
+
 st.markdown("""
     <style>
     section[data-testid="stSidebar"] {
@@ -12,10 +15,33 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-#PAGE SETUP
-st.set_page_config(page_title="DONATIONS DASHBOARD", page_icon="📊", layout="wide")
 st.title("📊 Donations Dashboard 💵")
 st.caption("Upload your donation data to visualize trends + Get insights with our chat~")
+
+#THEMES
+THEMES = {
+    "Vintage Plum": {
+        "colors": ["#542E71", "#6A66A3", "#84A9C0", "#B3CBB9", "#DDD8B8"],
+        "line": "#6A66A3",
+        "fill": "rgba(106, 102, 163, 0.25)",
+        "scale": ["#DDD8B8", "#B3CBB9", "#84A9C0", "#6A66A3", "#542E71"],
+    },
+    "Ocean Teal": {
+        "colors": ["#0D5C63", "#247B7B", "#44A1A0", "#78CDD7", "#FFFFFA"],
+        "line": "#247B7B",
+        "fill": "rgba(68, 161, 160, 0.25)",
+        "scale": ["#78CDD7", "#44A1A0", "#247B7B", "#0D5C63"],
+    },
+    "Sunset Pop": {
+        "colors": ["#E58C8A", "#EEC0C6", "#7EE8FA", "#80FF72", "#FFF07C"],
+        "line": "#E58C8A",
+        "fill": "rgba(126, 232, 250, 0.30)",
+        "scale": ["#FFF07C", "#7EE8FA", "#EEC0C6", "#E58C8A"],
+    },
+}
+
+theme_choice = st.sidebar.selectbox("🎨 Theme", list(THEMES.keys()))
+theme = THEMES[theme_choice]
 
 #LOAD DATA
 uploaded = st.sidebar.file_uploader("Upload a donations CSV", type="csv")
@@ -96,8 +122,8 @@ with left:
     monthly = df.groupby("month")["amount"].sum().reset_index()
     fig = px.area(monthly, x="month", y="amount")
     fig.update_traces(
-        line_color="#4a90d9",
-        fillcolor="rgba(74, 144, 217, 0.25)",
+        line_color=theme["line"],
+        fillcolor=theme["fill"],
         hovertemplate="%{x}<br>$%{y:,.0f}<extra></extra>",
     )
     fig.update_layout(
@@ -113,7 +139,7 @@ with left:
     fig = px.pie(
         by_method, names="payment_method", values="amount",
         hole=0.5,
-        color_discrete_sequence=["#4a90d9", "#7db8e8", "#2c5f8a", "#a8d0f0"],
+        color_discrete_sequence=theme["colors"],
     )
     fig.update_traces(hovertemplate="%{label}<br>$%{value:,.0f}<extra></extra>")
     fig.update_layout(margin=dict(l=0, r=0, t=10, b=0), height=320)
@@ -123,13 +149,13 @@ with right:
     st.subheader("Top Campaigns")
     by_campaign = (
         df.groupby("campaign")["amount"].sum()
-        .sort_values(ascending=True).reset_index()   # ascending: biggest bar on top
+        .sort_values(ascending=True).reset_index()
     )
     fig = px.bar(
         by_campaign, x="amount", y="campaign",
         orientation="h",
         color="amount",
-        color_continuous_scale="Blues",
+        color_continuous_scale=theme["scale"],
     )
     fig.update_traces(hovertemplate="%{y}<br>$%{x:,.0f}<extra></extra>")
     fig.update_layout(
@@ -189,7 +215,7 @@ with st.sidebar:
     st.divider()
     st.subheader("💬 Data Chat")
 
-    with st.container(height=400):
+    with st.container(height=300):
         for msg in st.session_state.chat_history:
             with st.chat_message(msg["role"]):
                 st.markdown(msg["content"])
